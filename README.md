@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GuillermoFWGonzalez.
+- 👀 I’m interested in Programming/Coding, Video Creation, Theology, Psychology, Efficiency/Simplification...
+- 🌱 I’m currently further learning Unity with C# & Video Creation. 
+- 💞️ I’m looking to work or intern dealing with Unity with C#.
+- 📫 Contact me: guillermofwgonzalez@gmail.com
